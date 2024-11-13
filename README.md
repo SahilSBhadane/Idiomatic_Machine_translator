@@ -1,16 +1,6 @@
 # Idiomatic_Machine_translator
 
-
-Here's a template for a `README.md` file that you can customize to suit your Google Colab project. This template is designed to give a clear overview of your project, its purpose, setup instructions, and usage examples.
-
-Feel free to adjust the sections as needed:
-
----
-
-# **Project Name**
-
-> A brief description of your project. For example:
-> "This project focuses on training a custom translation model using a dataset of English and Hindi idioms, built and fine-tuned using Google Colab."
+- This project focuses on training a custom translation model using a dataset of English and Hindi idioms, built and fine-tuned using Google Colab.
 
 ## 🚀 **Project Overview**
 This project aims to build a custom machine translation model from scratch using NLP techniques. The project includes:
