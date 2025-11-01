@@ -136,25 +136,12 @@ translations = translator.batch_translate(texts, target='fr')
 ## 🌍 Supported Languages
 
 Current support:
-- 🇬🇧 English ↔️ 🇪🇸 Spanish
-- 🇬🇧 English ↔️ 🇫🇷 French
-- 🇬🇧 English ↔️ 🇩🇪 German
 - 🇬🇧 English ↔️ 🇮🇳 Hindi
 
 *More language pairs coming soon!*
 
 ---
 
-## 📊 Example Translations
-
-| English Idiom | Literal Translation | Idiomatic Translation (Spanish) |
-|---------------|---------------------|--------------------------------|
-| "Break a leg" | "Rompe una pierna" ❌ | "¡Buena suerte!" ✅ |
-| "Piece of cake" | "Pedazo de pastel" ❌ | "Pan comido" ✅ |
-| "Cost an arm and a leg" | "Costar un brazo y una pierna" ❌ | "Costar un ojo de la cara" ✅ |
-| "Spill the beans" | "Derramar los frijoles" ❌ | "Revelar el secreto" ✅ |
-
----
 
 ## 🧠 Technical Approach
 
